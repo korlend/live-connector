@@ -1,9 +1,9 @@
-package com.korlend.chat;
+package com.liveconnector.core;
 
 /**
  * spizzheno by korlend on 13.12.2017.
         */
-import com.sun.xml.internal.ws.api.message.ExceptionHasMessage;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

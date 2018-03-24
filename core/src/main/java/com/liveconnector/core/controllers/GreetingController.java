@@ -1,4 +1,4 @@
-package com.korlend.chat.controllers;
+package com.liveconnector.core.controllers;
 
 /**
  * Created by korlend on 14.12.2017.
